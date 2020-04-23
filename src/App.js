@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        Learn travis-ci and aws beanstalk
+        Learn travis-ci and aws beanstalk react deployment
       </header>
     </div>
   );
